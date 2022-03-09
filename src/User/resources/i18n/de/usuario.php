@@ -87,7 +87,7 @@ return [
     'Delete account' => 'Konto Löschen',
     'Delete my account' => 'Mein Benutzerkonto löschen',
     'Delete personal data' => 'Persönliche Daten löschen',
-    'Deleted by GDPR request' => 'Geköscht gemäß DSGVO-Anforderung',
+    'Deleted by GDPR request' => 'Gelöscht gemäß DSGVO-Anforderung',
     'Description' => 'Beschreibung',
     'Didn\'t receive confirmation message?' => 'Bestätigungs-Mail nicht empfangen?',
     'Disable two factor authentication' => 'Zwei-Faktor-Authentifizierung deaktivieren',
